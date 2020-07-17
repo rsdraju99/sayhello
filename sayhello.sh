@@ -1,7 +1,6 @@
 #!/bin/bash
 # SayHello v1.0
-# coded by: github.com/thelinuxchoice/sayhello
-# Twitter: @linux_choice
+# coded by: github.com/rsdraju99/sayhello
 # Using Recorderjs by: https://github.com/mattdiamond/Recorderjs
 trap 'printf "\n";stop' 2
 
@@ -23,9 +22,7 @@ printf "\e[1;93m              |___/                        \e[0m\e[1;92m\__ \e[0
 printf "\e[1;92m                                              \ \e[0m\n"
 
 
-printf "\e[1;77m v1.0 coded by github.com/thelinuxchoice/sayhello\e[0m \n"
-
-printf " Twitter: @linux_choice\n"
+printf "\e[1;77m v1.0 coded by github.com/rsdraju99/sayhello\e[0m \n"
 
 
 }
